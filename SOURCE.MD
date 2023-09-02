@@ -1,5 +1,10 @@
 # ETH WARSAW SUBMISSON
 
+## Team
+- Bartłomiej Lech
+- Przemysław Paczoski
+- Piotr Szaciłowski 
+- Mateusz Chudy
 
 ## Mantle bounty:
 https://twitter.com/szacilowski/status/1698075027994800483?s=46&t=tcPZ_SZQzUKzvCG96NMsyA
