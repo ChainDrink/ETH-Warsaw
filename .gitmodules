@@ -1,0 +1,9 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/ChainDrink/contracts
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ChainDrink/backend
+[submodule "leaderboard"]
+	path = leaderboard
+	url = https://github.com/ChainDrink/leaderboard
