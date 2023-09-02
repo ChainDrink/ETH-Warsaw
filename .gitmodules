@@ -7,3 +7,6 @@
 [submodule "leaderboard"]
 	path = leaderboard
 	url = https://github.com/ChainDrink/leaderboard
+[submodule "contracts-evm"]
+	path = contracts-evm
+	url = https://github.com/ChainDrink/contracts-evm
