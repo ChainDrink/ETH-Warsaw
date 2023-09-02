@@ -13,3 +13,6 @@
 [submodule "backend-evm"]
 	path = backend-evm
 	url = https://github.com/ChainDrink/backend-evm
+[submodule "tcp-frontend"]
+	path = tcp-frontend
+	url = https://github.com/ChainDrink/tcp-frontend
