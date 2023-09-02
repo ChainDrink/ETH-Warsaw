@@ -1,7 +1,6 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/ChainDrink/contracts
-	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ChainDrink/backend
